@@ -1,6 +1,2 @@
 d
-<<<<<<< HEAD
-fmastert
-=======
 ft
->>>>>>> ft

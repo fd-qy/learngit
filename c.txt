@@ -4,8 +4,4 @@ tttt
 
 mmm
 
-<<<<<<< HEAD
 ddd
-=======
-ftl
->>>>>>> ftl
